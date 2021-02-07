@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "Akushisu",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
