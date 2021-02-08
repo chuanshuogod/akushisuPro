@@ -93,7 +93,16 @@ export default {
     name: 'LayoutIndex',
     computed: {
         ...mapState(['user'])
+    },
+  head () {
+    return {
+      title: `阿库西斯教众论坛`,
+      meta: [
+        { hid: 'home', name: 'description', content: '阿库西斯教众论坛主页' }
+      ]
     }
+  }
+
 }
 </script>
 

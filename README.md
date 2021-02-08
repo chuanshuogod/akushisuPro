@@ -7,3 +7,7 @@ https://github.com/gothinkster/realworld/tree/master/api
 线上demo页
 https://demo.realworld.io
 
+部署成功的服务器地址
+http://106.53.229.227:3000/
+http://akushisu.club/home
+

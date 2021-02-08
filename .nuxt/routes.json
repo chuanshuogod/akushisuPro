@@ -1,51 +1,51 @@
 [
   {
     "path": "/",
-    "component": "D:\\\\study\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "component": "D:\\\\study\\\\akushisuPro\\\\pages\\\\layout",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "D:\\\\study\\\\realworld-nuxtjs\\\\pages\\\\home",
-        "_name": "_b58f83fe"
+        "component": "D:\\\\study\\\\akushisuPro\\\\pages\\\\home",
+        "_name": "_249d44be"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\study\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_0207ca87"
+        "component": "D:\\\\study\\\\akushisuPro\\\\pages\\\\login",
+        "_name": "_6f439b6a"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\study\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_0207ca87"
+        "component": "D:\\\\study\\\\akushisuPro\\\\pages\\\\login",
+        "_name": "_6f439b6a"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\study\\\\realworld-nuxtjs\\\\pages\\\\profile",
-        "_name": "_78661547"
+        "component": "D:\\\\study\\\\akushisuPro\\\\pages\\\\profile",
+        "_name": "_f41d8d2c"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\study\\\\realworld-nuxtjs\\\\pages\\\\settings",
-        "_name": "_259ca445"
+        "component": "D:\\\\study\\\\akushisuPro\\\\pages\\\\settings",
+        "_name": "_6d13f6fc"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\study\\\\realworld-nuxtjs\\\\pages\\\\editor",
-        "_name": "_3265aa0f"
+        "component": "D:\\\\study\\\\akushisuPro\\\\pages\\\\editor",
+        "_name": "_6ca3f58c"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\study\\\\realworld-nuxtjs\\\\pages\\\\article",
-        "_name": "_5f305894"
+        "component": "D:\\\\study\\\\akushisuPro\\\\pages\\\\article",
+        "_name": "_6cbb7cb7"
       }
     ],
-    "_name": "_3e3483cc"
+    "_name": "_7872cf49"
   }
 ]

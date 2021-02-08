@@ -71,12 +71,12 @@ const getComments = slug => {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./pages/article/index.vue?vue&type=template&id=087db81f&
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./pages/article/index.vue?vue&type=template&id=203ba3dc&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"article-page"},[_vm._ssrNode("<div class=\"banner\">","</div>",[_vm._ssrNode("<div class=\"container\">","</div>",[_vm._ssrNode("<h1>"+_vm._ssrEscape(_vm._s(_vm.article.title))+"</h1> "),_c('article-meta',{attrs:{"article":_vm.article}})],2)]),_vm._ssrNode(" "),_vm._ssrNode("<div class=\"container page\">","</div>",[_vm._ssrNode("<div class=\"row article-content\"><div class=\"col-md-12\">"+(_vm._s(_vm.article.body))+"</div></div> <hr> "),_vm._ssrNode("<div class=\"article-actions\">","</div>",[_c('article-meta',{attrs:{"article":_vm.article}})],1),_vm._ssrNode(" "),_vm._ssrNode("<div class=\"row\">","</div>",[_vm._ssrNode("<div class=\"col-xs-12 col-md-8 offset-md-2\">","</div>",[_c('article-comments',{attrs:{"article":_vm.article}})],1)])],2)],2)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./pages/article/index.vue?vue&type=template&id=087db81f&
+// CONCATENATED MODULE: ./pages/article/index.vue?vue&type=template&id=203ba3dc&
 
 // EXTERNAL MODULE: ./api/article.js
 var api_article = __webpack_require__(28);
@@ -184,7 +184,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "0c7523b0"
+  "5e660e16"
   
 )
 
@@ -298,7 +298,7 @@ var article_comments_component = Object(componentNormalizer["a" /* default */])(
   false,
   article_comments_injectStyles,
   null,
-  "1219a917"
+  "1726bbf6"
   
 )
 
@@ -374,7 +374,7 @@ var article_comments_component = Object(componentNormalizer["a" /* default */])(
 
   head() {
     return {
-      title: `${this.article.title} - RealWorld`,
+      title: `${this.article.title} - Akushisu`,
       meta: [{
         hid: 'description',
         name: 'description',
@@ -404,7 +404,7 @@ var article_component = Object(componentNormalizer["a" /* default */])(
   false,
   article_injectStyles,
   null,
-  "45ab1af8"
+  "51cf7a66"
   
 )
 

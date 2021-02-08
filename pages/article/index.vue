@@ -61,7 +61,7 @@ export default {
   },
   head () {
     return {
-      title: `${this.article.title} - RealWorld`,
+      title: `${this.article.title} - Akushisu`,
       meta: [
         { hid: 'description', name: 'description', content: this.article.description }
       ]
