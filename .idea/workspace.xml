@@ -21,6 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="789f1fa9-2b8b-4ea5-9549-8778721405df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/13c5661.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/73c76db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/5.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/index.spa.html" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/index.spa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +64,7 @@
       <updated>1612681273279</updated>
       <workItem from="1612681274535" duration="6046000" />
       <workItem from="1612746701606" duration="5917000" />
-      <workItem from="1613697707362" duration="4032000" />
+      <workItem from="1613697707362" duration="4996000" />
     </task>
     <servers />
   </component>
@@ -78,10 +84,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613724395573">
+    <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613729339853">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1613724395573" />
+    <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1613729339853" />
     <state x="2129" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613724076122">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
