@@ -22,9 +22,9 @@
     <list default="true" id="789f1fa9-2b8b-4ea5-9549-8778721405df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/article/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/article/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/layout/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/layout/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pm2.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/pm2.config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612681273279</updated>
       <workItem from="1612681274535" duration="6046000" />
-      <workItem from="1612746701606" duration="2844000" />
+      <workItem from="1612746701606" duration="5917000" />
+      <workItem from="1613697707362" duration="2993000" />
     </task>
     <servers />
   </component>
@@ -77,8 +79,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613724395573">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1458" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1613724395573" />
+    <state x="2129" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613724076122">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2129" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1613724076122" />
     <state x="0" y="98" width="1382" height="718" key="dock-window-1" timestamp="1612690744296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
